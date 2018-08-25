@@ -1,0 +1,23 @@
+.navbar{
+
+    box-shadow: 2px 2px 5px black;
+}
+.navbar-nav .nav-item .nav-link{
+
+    color: #000000;
+}
+.main-header{
+    position: relative;
+    background: url(../img/parque.jpg);
+    background-size: cover ;
+    min-height: 600px
+}
+.blackground-overlay {
+    position: absolute;
+    background-color: rgba(12, 240, 175, 0.082);
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
